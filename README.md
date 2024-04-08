@@ -16,3 +16,6 @@ Finding manufacturing inefficiencies and possible opportunities for cost reducti
 ## Conclusion 
 This Power BI dashboard helps manufacturers handle the challenges of personnel and production management with its rich analytical capabilities and potent visualizations. It emphasizes how crucial it is to use data to maintain competitive advantages in labor optimization and industrial efficiency.
 
+
+<img width="610" alt="tableau dashboard img1" src="https://github.com/KuSHagragARG-DEBUG/manufacturing-tableau-project/assets/130494723/cf3424f0-4ffe-43de-9f0d-a1808b922269">
+<img width="609" alt="tableau dashboard img2" src="https://github.com/KuSHagragARG-DEBUG/manufacturing-tableau-project/assets/130494723/f31a5fe7-a142-4699-9d33-be3a6b24b9fe">
